@@ -1,0 +1,9 @@
+BACKEND/node_modules/
+FRONTEND/node_modules/
+BACKEND/.env
+FRONTEND/.env
+FRONTEND/.env.local
+FRONTEND/dist/
+BACKEND/src/uploads/
+*.log
+coverage/
